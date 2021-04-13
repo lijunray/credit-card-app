@@ -1,2 +1,2 @@
 # credit-card-app
-Credit card app.
+This is a Credit card app.

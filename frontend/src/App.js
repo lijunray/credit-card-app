@@ -1,9 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
+import CreditCard from './CreditCard/CreditCard';
 
 const App = () => (
   <div className="App">
     <header className="App-header">
+      <CreditCard />
       <img src={logo} className="App-logo" alt="logo" />
       <p>
         Edit <code>src/App.js</code> and save to reload.
